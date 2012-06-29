@@ -1,0 +1,6 @@
+print "Lancement du programme...."
+
+superbe_liste = []
+
+for i in range(10):
+	superbe_liste.append(i)

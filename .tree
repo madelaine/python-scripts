@@ -1,0 +1,9 @@
+.
+└── [1.0K]  data-mining
+    └── [1.0K]  merge_topics_values
+        ├── [2.7K]  app.rb
+        ├── [1.8K]  export.exp
+        ├── [1.1M]  list_of_numbers
+        └── [ 936]  list_of_topics
+
+2 directories, 4 files
